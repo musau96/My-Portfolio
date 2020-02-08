@@ -1,8 +1,13 @@
  body{
-     background-color:white;
+     background-color:black;
  }
  .header{
-     color: black;
+     text-align: center;
+     background-color: thistle;
+     color:white;
  }
- 
+ .p{
+     align-items: center;
+     color:whitesmoke;
+ }
  
