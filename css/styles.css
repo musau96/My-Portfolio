@@ -17,6 +17,7 @@
      font-size: 72px;
  }
  .p{
+     text-size:40px;
      align-items: center;
      color:whitesmoke;
  }
@@ -93,8 +94,11 @@ li a:hover{
     margin-top: 6px;
 }
 .button{
-    display: block;
+    display: inline-block;
     background: blueviolet;
     padding: 20px ;
-
+}
+.skill{
+    border-radius: 4px;
+    width: 500px;
 }
