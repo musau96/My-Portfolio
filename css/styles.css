@@ -1,7 +1,7 @@
  body{
      max-width: 500px;
      margin:auto;x;
-     background-color:rgb(204, 195, 192);
+     background-color:cyan;
  }
 
  img{
@@ -101,4 +101,12 @@ li a:hover{
 .skill{
     border-radius: 4px;
     width: 500px;
+}
+.aboutme{
+    background-color: darkviolet;
+    width: 500px;
+    border: 20px rgb(204, 143, 230);
+    padding: 50px;
+    margin: 20px;
+
 }
