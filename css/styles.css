@@ -1,13 +1,50 @@
  body{
-     background-color:black;
+     margin: 0px;
+     background-color:whitesmoke;
+ }
+
+ img{
+     border-radius:50%;
  }
  .header{
      text-align: center;
-     background-color: thistle;
+     background-color:purple;
      color:white;
+ }
+ .h1{
+     font-size: 72px;
  }
  .p{
      align-items: center;
      color:whitesmoke;
  }
+
+ .navbar{
+    color:black;
+    width:1100px;
+    marigin:auto;
+    overflow: auto;
+}
+ .nav{
+     width:1100px;
+     background-color: rebeccapurple;
+     margin:auto;
+     overflow: auto;
+ }
  
+ ul{
+     margin: 0px;
+     padding: 0px;
+     list-style: none;
+
+ }
+ li{
+     float: left;
+ }
+ a:link{
+     color:white;
+     width:130px;
+     display: block;
+     text-align: center;
+     padding: 15px;
+ }
