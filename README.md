@@ -16,5 +16,5 @@ Technologies used HTML AND CSS - Features on use a cool contanct form with a lig
 ## Support and contact details
 Please inform me for any bugs,contribution,and any feedback, will be happy to fix it!
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+*MUSAU NZIOKA, WEB DEVELOPER
+Licensed under the [MIT Lincense](LICENSE).
