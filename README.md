@@ -5,7 +5,7 @@
 This is a simple website Portfolio to help me Organize my Projects,book Potential Clients and show my work and contributions to Software development
 ## Setup/Installation Requirements
 ## The right place to be ! if for some reason you would like to contribute 
-## to  this project and future colaborations please follow these instructions
+## To this project and future colaborations please follow these instructions
 * fork and clone the repository
 * Exculisively for collobaration 
 
